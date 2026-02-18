@@ -35,7 +35,7 @@ Evaluate the trained model using test data and use it to predict the customer se
 ### Name: SUBHASH V
 ### Register Number: 212224240163
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
